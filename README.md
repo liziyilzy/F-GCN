@@ -1,4 +1,4 @@
-# FCN
+# F-GCN
 
 This is the repository for the TGRS paper [Fuzzy Graph Convolutional Network for Hyperspectral Image Classification(F-GCN)].
 
